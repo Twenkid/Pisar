@@ -1,7 +1,11 @@
 # ПИСАР
+<img src="https://github.com/Twenkid/Pisar/blob/main/pisar002/ikona-64x64.png">
 
-Български текстов редактор, първа версия от 2002 г. Известен в "Download.bg" като "Българският Notepad".
-Използван е и заедно със синтезатора на реч "Глас 2004" (Pisar_Glas).
+Български текстов редактор, първа версия от 2002 г. Известен в "Download.bg" като "Българския Notepad".
+
+Използван е и в синтезатора на реч "Глас 2004" (Pisar_Glas).
+
+Автор: Тош
 
 Документация към версия 0.02: https://github.com/Twenkid/Pisar/blob/main/pisar002/pisar.htm
 
