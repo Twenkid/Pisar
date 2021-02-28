@@ -9,4 +9,10 @@
 
 Документация към версия 0.02: https://github.com/Twenkid/Pisar/blob/main/pisar002/pisar.htm
 
+В чист текст във версия 0.05:
+
+https://github.com/Twenkid/Pisar/blob/main/pisar005/pisari-utf8.txt
+
+https://github.com/Twenkid/Pisar/blob/main/pisar005/vuprosi-utf8.txt
+
 Text Editor For Windows - first version from 2002. Made in Plovdiv, Bulgaria.
